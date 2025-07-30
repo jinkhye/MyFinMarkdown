@@ -1,0 +1,6 @@
+row_index,Correct Row Count,Correct Column Count,Semantically Accurate Headers,Correct Item Order,Valid Markdown Formatting,teds_score
+0,True,False,False,False,True,0.17995822890559732
+1,False,True,True,False,True,0.6781380855000487
+2,False,False,False,False,True,0.6845159426935128
+3,False,True,True,False,True,0.8447677110665226
+4,False,False,False,True,True,0.6835031296446088
