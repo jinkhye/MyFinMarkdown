@@ -1,4 +1,4 @@
-# [Evaluation Tools] Fine-Tuning Vision-Language Models for Structured Markdown Conversion of Financial Tables in Malaysian Audited Financial Reports
+# [Evaluation Tools] Fine-Tuning Vision-Language Models for Markdown Conversion of Financial Tables in Malaysian Audited Financial Reports
 
 <img width="1563" height="637" alt="image" src="https://github.com/user-attachments/assets/c8c3897e-1b09-4054-8cd0-cdeb3e2a0200" />
 
@@ -6,7 +6,7 @@
 
 This repository provides the tools for evaluating the quality of Markdown tables generated from financial documents. It includes scripts for automated, criteria-based assessment using a Large Language Model (LLM-as-a-Judge) and for calculating structural similarity using the Markdown Tree-Edit-Distance-based Similarity (TEDS) metric.
 
-These tools were developed for the research paper: **"Fine-Tuning Vision-Language Models for Structured Markdown Conversion of Financial Tables in Malaysian Audited Financial Reports"**.
+These tools were developed for the research paper: **"Fine-Tuning Vision-Language Models for Markdown Conversion of Financial Tables in Malaysian Audited Financial Reports"**.
 
 ## Tools Overview
 
